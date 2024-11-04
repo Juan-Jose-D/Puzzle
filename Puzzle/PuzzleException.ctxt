@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PuzzleException
+comment0.text=\r\n\ Clase\ de\ excepciones\ para\ el\ Puzzle\r\n\ \r\n\ @author\ Alexandra\ Moreno,\ Juan\ Jos\u00E9\ D\u00EDaz\r\n\ @version\ 2024-2\r\n
+comment1.params=mensaje
+comment1.target=PuzzleException(java.lang.String)
+comment1.text=\r\n\ Imprime\ un\ mensaje\r\n\ @param\ String\ mensaje\r\n
+numComments=2

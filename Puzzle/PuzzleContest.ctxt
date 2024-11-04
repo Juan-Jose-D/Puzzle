@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PuzzleContest
+comment1.params=
+comment1.target=PuzzleContest()
+comment10.params=board
+comment10.target=char[][]\ copyBoard(char[][])
+comment11.params=board
+comment11.target=java.lang.String\ boardToString(char[][])
+comment2.params=starting\ ending
+comment2.target=boolean\ solve(char[][],\ char[][])
+comment3.params=starting\ ending
+comment3.target=void\ simulate(char[][],\ char[][])
+comment4.params=board\ direction
+comment4.target=char[][]\ tilt(char[][],\ char)
+comment5.params=board
+comment5.target=char[][]\ tiltRight(char[][])
+comment6.params=board
+comment6.target=char[][]\ tiltLeft(char[][])
+comment7.params=board
+comment7.target=char[][]\ tiltUp(char[][])
+comment8.params=board
+comment8.target=char[][]\ tiltDown(char[][])
+comment9.params=before\ after
+comment9.target=char\ determineDirection(char[][],\ char[][])
+numComments=12
