@@ -15,10 +15,10 @@ Este proyecto fue creado como ejercicio para:
 
 El objetivo de este proyecto es ayudar a comprender los conceptos fundamentales de la POO en Java, como:
 
--Clases y objetos
--Encapsulamiento
--Interacción entre métodos
--Lógica y condicionales básicas
+- Clases y objetos
+- Encapsulamiento
+- Interacción entre métodos
+- Lógica y condicionales básicas
 
 El juego simula una lógica de puzzle simple, donde el usuario interactúa con piezas o elementos que deben ser ordenados, movidos o combinados (dependiendo de cómo lo hayas implementado).
 
