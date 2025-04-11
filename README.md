@@ -40,6 +40,8 @@ El juego simula una lógica de puzzle simple, donde el usuario interactúa con p
 
 👨‍💻 Autor
 Creado por Juan José Díaz Gómez
+
 Estudiante de ingeniería de sistemas
+
 Escuela Colombiana de Ingeniería Julio Garavito
 
